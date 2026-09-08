@@ -1,0 +1,17 @@
+pandas
+pyarrow
+numpy
+scikit-learn
+lightgbm
+shap
+h3
+holidays
+geopandas
+pyogrio
+fastapi
+uvicorn[standard]
+mlflow
+streamlit
+plotly
+requests
+pydantic

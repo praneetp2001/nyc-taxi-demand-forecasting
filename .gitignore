@@ -1,0 +1,22 @@
+# Python environments and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local data and experiment outputs
+data/raw/
+data/processed/
+mlruns/
+mlflow.db
+models/
+
+# OS and editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Local configuration
+.env
+.env.*
+!.env.example
